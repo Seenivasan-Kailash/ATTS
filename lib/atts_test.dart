@@ -37,7 +37,7 @@ class _AttsTestState extends State<AttsTest> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("ATTS TEST",style: TextStyle(color: Colors.white,fontSize: 15,fontWeight: FontWeight.w500),),
+        title: Text("ATTS TEST",style: TextStyle(color: Colors.black,fontSize: 15,fontWeight: FontWeight.w500),),
       ),
 
       body: ListView.builder(
